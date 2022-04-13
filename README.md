@@ -1,5 +1,5 @@
 # Sierpinski-Triangle
-Python program using Turtle to display the formation of a Sierpinski Triangle.
+Python program using Turtle module to display the formation of a Sierpinski Triangle.
 
 Inspiration: https://www.youtube.com/watch?v=kbKtFN71Lfs
 
